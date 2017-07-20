@@ -21,7 +21,7 @@ Flight data of four airline companies linked below will be gathered:
 
 For each airline company ticket price, flight date&time, current date&time and destination should be scraped.
 
-For Turkish Airlines 20 International 30 Domestic flights,
+For Turkish Airlines 30 International 20 Domestic flights,
 <br>For Pegasus Airlines 20 International 20 Domestic flights,
 <br>For Atlas Global     15 International 15 Domestic flights,
 <br>For Onur Air         15 International 15 Domestic flights data 
