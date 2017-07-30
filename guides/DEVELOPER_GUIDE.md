@@ -46,3 +46,18 @@ Collected data should be demonstrated in different graphics to compare ticket pr
 * Ticket price of same destination for different departure dates&times will graphically shown for whole year for each company. To see which season of year has the cheapest/the most expensive tickets.
 
 * Ticket price of one flight will graphically shown for whole year for each company. To see when is the cheapest/the most expensive ticket for a particular flight.
+
+### Contribution
+
+* Project is driven over Github. Please look at the Github issues not assigned yet.
+* Please make sure that every functionality added has a test coverage and does not break any existing test.
+
+#### Build
+
+* Project modules are written with `Python 3`.
+* In order to install the dependencies use `pip3 install -r requirements.txt`
+
+#### Test
+
+* Running the tests requires `pytest`, just run `pytest tests/` in order to make sure there is no regression before submitting the PR.
+
