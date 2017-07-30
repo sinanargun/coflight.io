@@ -1,0 +1,4 @@
+.ropeproject
+.cache
+tests/__pycache__/
+
